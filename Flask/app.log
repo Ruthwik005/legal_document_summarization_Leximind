@@ -1,0 +1,512 @@
+2025-04-26 19:44:02,754 - __main__ - INFO - Using device: cpu
+2025-04-26 19:44:10,819 - tensorflow - WARNING - From C:\Users\DELL\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-26 19:44:11,423 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 19:44:11,425 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 19:44:11,926 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 19:44:11,926 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-26 19:44:15,341 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 19:44:15,384 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.12:5000
+2025-04-26 19:44:15,385 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 19:44:15,406 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 19:44:38,941 - __main__ - INFO - Using device: cpu
+2025-04-26 19:44:42,940 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 19:44:42,944 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 19:44:43,525 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 19:44:43,526 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-26 19:44:47,597 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 19:44:47,623 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 19:44:47,627 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 20:13:31,575 - __main__ - INFO - Using device: cpu
+2025-04-26 20:13:54,243 - tensorflow - WARNING - From C:\Users\DELL\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-26 20:13:56,417 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 20:13:56,429 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 20:13:58,135 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 20:13:58,136 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-26 20:14:02,906 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 20:14:02,984 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.12:5000
+2025-04-26 20:14:02,985 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 20:14:03,035 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 20:14:41,350 - __main__ - INFO - Using device: cpu
+2025-04-26 20:14:46,906 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 20:14:46,918 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 20:14:48,162 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 20:14:48,163 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-26 20:14:52,847 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 20:14:52,915 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:14:52,943 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 20:16:06,977 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:16:06] "GET /health HTTP/1.1" 200 -
+2025-04-26 20:16:07,239 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:16:07] "GET /health HTTP/1.1" 200 -
+2025-04-26 20:16:19,843 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\Uploads\f769f46b-1a0d-4eb9-b330-59f7e04e2985_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-26 20:16:20,549 - __main__ - INFO - Text length: 10343 chars, 1686 words
+2025-04-26 20:17:21,567 - __main__ - INFO - Generated summary in 61.01 seconds
+2025-04-26 20:17:21,569 - __main__ - INFO - Summary length: 705 words
+2025-04-26 20:17:21,574 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:17:21] "POST /summarize HTTP/1.1" 200 -
+2025-04-26 20:17:37,087 - __main__ - ERROR - No vector store found for session None
+2025-04-26 20:17:37,089 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:17:37] "[31m[1mPOST /ask HTTP/1.1[0m" 400 -
+2025-04-26 20:23:17,126 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 20:23:17,131 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 20:23:17,133 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 20:23:20,348 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 20:24:59,833 - __main__ - INFO - Using device: cpu
+2025-04-26 21:09:37,306 - tensorflow - WARNING - From C:\Users\DELL\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-26 21:09:37,752 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 21:09:37,755 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 21:09:38,100 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 21:09:38,100 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-26 21:09:41,570 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 21:09:41,600 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.12:5000
+2025-04-26 21:09:41,601 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 21:09:41,614 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:09:58,161 - __main__ - INFO - Using device: cpu
+2025-04-26 21:10:02,325 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 21:10:02,329 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 21:10:02,935 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 21:10:02,935 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-26 21:10:06,039 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 21:10:06,072 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 21:10:06,082 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 21:10:06,137 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\Uploads\97a8a617-5680-41d4-92f2-f9492af28a82_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-26 21:10:06,427 - __main__ - INFO - Text length: 10343 chars, 1686 words
+2025-04-26 21:10:33,083 - __main__ - INFO - Generated summary in 26.66 seconds
+2025-04-26 21:10:33,085 - __main__ - INFO - Summary length: 705 words
+2025-04-26 21:10:33,087 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:10:33] "POST /summarize HTTP/1.1" 200 -
+2025-04-26 21:10:53,431 - __main__ - ERROR - No vector store found for session None
+2025-04-26 21:10:53,433 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:10:53] "[31m[1mPOST /ask HTTP/1.1[0m" 400 -
+2025-04-26 21:15:01,489 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 21:15:01,490 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 21:15:01,492 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 21:15:03,770 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:15:20,333 - __main__ - INFO - Using device: cpu
+2025-04-26 21:15:24,858 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 21:15:24,861 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 21:15:25,487 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 21:15:25,487 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-26 21:15:30,148 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 21:15:30,174 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 21:15:30,185 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 21:15:30,248 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\Uploads\f1a13ee6-9d10-424a-98c0-cdd10e3bf128_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-26 21:15:30,519 - __main__ - INFO - Text length: 10343 chars, 1686 words
+2025-04-26 21:15:55,957 - __main__ - INFO - Generated summary in 25.44 seconds
+2025-04-26 21:15:55,957 - __main__ - INFO - Summary length: 705 words
+2025-04-26 21:15:55,959 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:15:55] "POST /summarize HTTP/1.1" 200 -
+2025-04-26 21:16:19,974 - __main__ - INFO - Processing question for session None
+2025-04-26 21:16:19,975 - __main__ - ERROR - No session ID found
+2025-04-26 21:16:19,977 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:16:19] "[31m[1mPOST /ask HTTP/1.1[0m" 400 -
+2025-04-26 21:19:40,972 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 21:19:40,975 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 21:19:44,071 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:20:11,258 - __main__ - INFO - Using device: cpu
+2025-04-26 21:20:16,485 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 21:20:16,491 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 21:20:17,480 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 21:20:17,480 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-26 21:20:21,676 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 21:20:21,721 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 21:20:21,731 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 21:20:21,815 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\Uploads\90ffa45e-faa2-4fc7-bd19-d169672d7a16_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-26 21:20:22,296 - __main__ - INFO - Text length: 10343 chars, 1686 words
+2025-04-26 21:21:09,116 - __main__ - INFO - Generated summary in 46.82 seconds
+2025-04-26 21:21:09,117 - __main__ - INFO - Summary length: 705 words
+2025-04-26 21:21:09,120 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:21:09] "POST /summarize HTTP/1.1" 200 -
+2025-04-26 21:21:41,289 - __main__ - ERROR - QA error for session None: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-26 21:21:41,292 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:21:41] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2025-04-26 21:25:26,336 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 21:25:26,338 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 21:25:26,340 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 21:25:29,886 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:31:37,928 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:38:09,924 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:41:19,093 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:50:10,977 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:52:03,881 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:55:08,554 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:58:46,864 - __main__ - INFO - Using device: cpu
+2025-04-26 21:58:46,865 - __main__ - INFO - Loading QA model...
+2025-04-26 21:58:51,649 - tensorflow - WARNING - From C:\Users\DELL\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-26 21:58:52,905 - __main__ - INFO - QA model loaded successfully
+2025-04-26 21:58:52,905 - __main__ - INFO - Loading summarization model...
+2025-04-26 21:59:00,381 - __main__ - INFO - Summarization model loaded successfully
+2025-04-26 21:59:00,381 - __main__ - INFO - Loading embeddings model...
+2025-04-26 21:59:00,614 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 21:59:00,617 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 21:59:01,133 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 21:59:01,134 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-26 21:59:04,518 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 21:59:04,565 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.12:5000
+2025-04-26 21:59:04,567 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 21:59:04,621 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 21:59:29,403 - __main__ - INFO - Using device: cpu
+2025-04-26 21:59:29,403 - __main__ - INFO - Loading QA model...
+2025-04-26 21:59:30,496 - __main__ - INFO - QA model loaded successfully
+2025-04-26 21:59:30,497 - __main__ - INFO - Loading summarization model...
+2025-04-26 21:59:33,655 - __main__ - INFO - Summarization model loaded successfully
+2025-04-26 21:59:33,655 - __main__ - INFO - Loading embeddings model...
+2025-04-26 21:59:34,039 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 21:59:34,043 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 21:59:34,537 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 21:59:34,538 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-26 21:59:38,500 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 21:59:38,540 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 21:59:38,551 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 21:59:38,612 - __main__ - INFO - Saved file 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf as 1fcfd40a-7e5e-4692-8856-5b80786480ba_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 21:59:38,613 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\uploads\1fcfd40a-7e5e-4692-8856-5b80786480ba_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-26 21:59:38,886 - __main__ - INFO - Preprocessed text length: 10387 characters
+2025-04-26 21:59:38,886 - __main__ - INFO - Generating summary for 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 21:59:38,888 - __main__ - INFO - Cleaned up file C:\fs2-2\customer\flask\uploads\1fcfd40a-7e5e-4692-8856-5b80786480ba_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 21:59:38,889 - __main__ - ERROR - Summarization error: name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\fs2-2\customer\flask\app.py", line 264, in summarize
+    start_time = time.time()
+                 ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+2025-04-26 21:59:38,893 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:59:38] "[35m[1mPOST /summarize HTTP/1.1[0m" 500 -
+2025-04-26 22:00:41,489 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:00:41,491 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:00:41,492 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:00:44,862 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 22:01:16,228 - __main__ - INFO - Using device: cpu
+2025-04-26 22:01:16,229 - __main__ - INFO - Loading QA model...
+2025-04-26 22:01:17,258 - __main__ - INFO - QA model loaded successfully
+2025-04-26 22:01:17,258 - __main__ - INFO - Loading summarization model...
+2025-04-26 22:01:20,259 - __main__ - INFO - Summarization model loaded successfully
+2025-04-26 22:01:20,259 - __main__ - INFO - Loading embeddings model...
+2025-04-26 22:01:20,508 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 22:01:20,512 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 22:01:20,978 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 22:01:20,978 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-26 22:01:24,402 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 22:01:24,431 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 22:01:24,437 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 22:01:24,485 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:01:24] "GET /health HTTP/1.1" 200 -
+2025-04-26 22:01:24,502 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:01:24] "GET /health HTTP/1.1" 200 -
+2025-04-26 22:01:24,516 - __main__ - INFO - Saved file 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf as f351c003-7f68-4fac-b5e9-42f63cb8822f_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:01:24,517 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\uploads\f351c003-7f68-4fac-b5e9-42f63cb8822f_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-26 22:01:24,865 - __main__ - INFO - Preprocessed text length: 10387 characters
+2025-04-26 22:01:24,865 - __main__ - INFO - Generating summary for 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:01:24,866 - __main__ - INFO - Cleaned up file C:\fs2-2\customer\flask\uploads\f351c003-7f68-4fac-b5e9-42f63cb8822f_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:01:24,867 - __main__ - ERROR - Summarization error: name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\fs2-2\customer\flask\app.py", line 829, in summarize
+    start_time = time.time()
+                 ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+2025-04-26 22:01:24,869 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:01:24] "[35m[1mPOST /summarize HTTP/1.1[0m" 500 -
+2025-04-26 22:02:09,420 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:02:09,423 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:02:09,425 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:02:12,180 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 22:02:44,956 - __main__ - INFO - Using device: cpu
+2025-04-26 22:02:44,956 - __main__ - INFO - Loading QA model...
+2025-04-26 22:02:45,952 - __main__ - INFO - QA model loaded successfully
+2025-04-26 22:02:45,953 - __main__ - INFO - Loading summarization model...
+2025-04-26 22:02:51,737 - __main__ - INFO - Summarization model loaded successfully
+2025-04-26 22:02:51,737 - __main__ - INFO - Loading embeddings model...
+2025-04-26 22:02:52,314 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 22:02:52,320 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 22:02:53,482 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 22:02:53,482 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-26 22:02:57,761 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 22:02:57,807 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 22:02:57,821 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 22:02:57,902 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:02:57] "GET /health HTTP/1.1" 200 -
+2025-04-26 22:02:57,933 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:02:57] "GET /health HTTP/1.1" 200 -
+2025-04-26 22:02:57,948 - __main__ - INFO - Saved file 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf as 21f6484e-809c-461c-87a2-936111f88f57_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:02:57,951 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\uploads\21f6484e-809c-461c-87a2-936111f88f57_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-26 22:02:58,654 - __main__ - INFO - Preprocessed text length: 10387 characters
+2025-04-26 22:02:58,655 - __main__ - INFO - Generating summary for 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:02:58,774 - __main__ - INFO - Cleaned up file C:\fs2-2\customer\flask\uploads\21f6484e-809c-461c-87a2-936111f88f57_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:02:58,775 - __main__ - ERROR - Summarization error: index out of range in self
+Traceback (most recent call last):
+  File "C:\fs2-2\customer\flask\app.py", line 830, in summarize
+    summary = summarizer(
+              ^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 280, in __call__
+    return super().__call__(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 173, in __call__
+    result = super().__call__(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1362, in __call__
+    return self.run_single(inputs, preprocess_params, forward_params, postprocess_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1369, in run_single
+    model_outputs = self.forward(model_inputs, **forward_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1269, in forward
+    model_outputs = self._forward(model_inputs, **forward_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 202, in _forward
+    output_ids = self.model.generate(**model_inputs, **generate_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\utils\_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\generation\utils.py", line 2067, in generate
+    model_kwargs = self._prepare_encoder_decoder_kwargs_for_generation(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\generation\utils.py", line 652, in _prepare_encoder_decoder_kwargs_for_generation
+    model_kwargs["encoder_outputs"]: ModelOutput = encoder(**encoder_kwargs)  # type: ignore
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\models\bart\modeling_bart.py", line 1061, in forward
+    embed_pos = self.embed_positions(input)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\models\bart\modeling_bart.py", line 116, in forward
+    return super().forward(positions + self.offset)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\sparse.py", line 190, in forward
+    return F.embedding(
+           ^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\functional.py", line 2551, in embedding
+    return torch.embedding(weight, input, padding_idx, scale_grad_by_freq, sparse)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: index out of range in self
+2025-04-26 22:02:58,787 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\transformers\\pipelines\\text2text_generation.py', reloading
+2025-04-26 22:02:58,817 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:02:58] "[35m[1mPOST /summarize HTTP/1.1[0m" 500 -
+2025-04-26 22:02:58,819 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\torch\\utils\\_contextlib.py', reloading
+2025-04-26 22:02:58,821 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\transformers\\generation\\utils.py', reloading
+2025-04-26 22:02:58,825 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\torch\\nn\\modules\\module.py', reloading
+2025-04-26 22:02:58,828 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\torch\\nn\\modules\\sparse.py', reloading
+2025-04-26 22:03:02,069 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 22:03:38,091 - __main__ - INFO - Using device: cpu
+2025-04-26 22:03:38,092 - __main__ - INFO - Loading QA model...
+2025-04-26 22:03:39,674 - __main__ - INFO - QA model loaded successfully
+2025-04-26 22:03:39,675 - __main__ - INFO - Loading summarization model...
+2025-04-26 22:03:46,997 - __main__ - INFO - Summarization model loaded successfully
+2025-04-26 22:03:46,997 - __main__ - INFO - Loading embeddings model...
+2025-04-26 22:03:47,487 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 22:03:47,496 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 22:03:48,510 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 22:03:48,511 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-26 22:03:53,238 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 22:03:53,284 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 22:03:53,295 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 22:06:04,990 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:06:04,992 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:06:04,994 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-26 22:06:07,016 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-26 22:06:43,147 - __main__ - INFO - Using device: cpu
+2025-04-26 22:06:43,148 - __main__ - INFO - Loading QA model...
+2025-04-26 22:06:44,674 - __main__ - INFO - QA model loaded successfully
+2025-04-26 22:06:44,674 - __main__ - INFO - Loading summarization model...
+2025-04-26 22:06:50,594 - __main__ - INFO - Summarization model loaded successfully
+2025-04-26 22:06:50,595 - __main__ - INFO - Loading embeddings model...
+2025-04-26 22:06:51,221 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-26 22:06:51,229 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-26 22:06:52,312 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-26 22:06:52,312 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-26 22:06:56,074 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-26 22:06:56,126 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 22:06:56,143 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-26 22:06:56,240 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:06:56] "GET /health HTTP/1.1" 200 -
+2025-04-26 22:06:56,271 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:06:56] "GET /health HTTP/1.1" 200 -
+2025-04-26 22:06:56,277 - __main__ - INFO - Saved file 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf as 79dc8741-a1cc-444a-bbd8-68f907ce57e2_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:06:56,279 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\Uploads\79dc8741-a1cc-444a-bbd8-68f907ce57e2_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-26 22:06:56,888 - __main__ - INFO - Preprocessed text length: 10387 characters
+2025-04-26 22:06:56,892 - __main__ - INFO - Generating summary for 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:06:56,949 - __main__ - INFO - Cleaned up file C:\fs2-2\customer\flask\Uploads\79dc8741-a1cc-444a-bbd8-68f907ce57e2_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-26 22:06:56,951 - __main__ - ERROR - Summarization error: index out of range in self
+Traceback (most recent call last):
+  File "C:\fs2-2\customer\flask\app.py", line 832, in summarize
+    summary = summarizer(
+              ^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 280, in __call__
+    return super().__call__(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 173, in __call__
+    result = super().__call__(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1362, in __call__
+    return self.run_single(inputs, preprocess_params, forward_params, postprocess_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1369, in run_single
+    model_outputs = self.forward(model_inputs, **forward_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1269, in forward
+    model_outputs = self._forward(model_inputs, **forward_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 202, in _forward
+    output_ids = self.model.generate(**model_inputs, **generate_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\utils\_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\generation\utils.py", line 2067, in generate
+    model_kwargs = self._prepare_encoder_decoder_kwargs_for_generation(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\generation\utils.py", line 652, in _prepare_encoder_decoder_kwargs_for_generation
+    model_kwargs["encoder_outputs"]: ModelOutput = encoder(**encoder_kwargs)  # type: ignore
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\models\bart\modeling_bart.py", line 1061, in forward
+    embed_pos = self.embed_positions(input)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\models\bart\modeling_bart.py", line 116, in forward
+    return super().forward(positions + self.offset)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\sparse.py", line 190, in forward
+    return F.embedding(
+           ^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\functional.py", line 2551, in embedding
+    return torch.embedding(weight, input, padding_idx, scale_grad_by_freq, sparse)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: index out of range in self
+2025-04-26 22:06:56,981 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 22:06:56] "[35m[1mPOST /summarize HTTP/1.1[0m" 500 -
+2025-04-27 09:17:12,046 - __main__ - INFO - Using device: cpu
+2025-04-27 09:17:12,048 - __main__ - INFO - Loading QA model...
+2025-04-27 09:17:15,774 - tensorflow - WARNING - From C:\Users\DELL\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-27 09:17:16,641 - __main__ - INFO - QA model loaded successfully
+2025-04-27 09:17:16,642 - __main__ - INFO - Loading summarization model...
+2025-04-27 09:17:23,158 - __main__ - INFO - Summarization model loaded successfully
+2025-04-27 09:17:23,158 - __main__ - INFO - Loading embeddings model...
+2025-04-27 09:17:23,372 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-27 09:17:23,375 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-27 09:17:24,062 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-27 09:17:24,063 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-27 09:17:27,067 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-27 09:17:27,090 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+2025-04-27 09:17:27,090 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 09:17:27,112 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-27 09:17:39,641 - __main__ - INFO - Using device: cpu
+2025-04-27 09:17:39,642 - __main__ - INFO - Loading QA model...
+2025-04-27 09:17:40,146 - __main__ - INFO - QA model loaded successfully
+2025-04-27 09:17:40,146 - __main__ - INFO - Loading summarization model...
+2025-04-27 09:17:42,057 - __main__ - INFO - Summarization model loaded successfully
+2025-04-27 09:17:42,057 - __main__ - INFO - Loading embeddings model...
+2025-04-27 09:17:42,248 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-27 09:17:42,250 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-27 09:17:42,601 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-27 09:17:42,602 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-27 09:17:45,050 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-27 09:17:45,063 - werkzeug - WARNING -  * Debugger is active!
+2025-04-27 09:17:45,067 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-27 09:32:25,419 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 09:32:25] "GET /health HTTP/1.1" 200 -
+2025-04-27 09:32:25,681 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 09:32:25] "GET /health HTTP/1.1" 200 -
+2025-04-27 09:33:25,496 - __main__ - INFO - Saved file 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf as 4c872299-5f61-4906-9034-325970d8c8cb_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-27 09:33:25,497 - __main__ - INFO - Extracting text from file: C:\fs2-2\customer\flask\Uploads\4c872299-5f61-4906-9034-325970d8c8cb_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf (extension: pdf)
+2025-04-27 09:33:25,792 - __main__ - INFO - Preprocessed text length: 10387 characters
+2025-04-27 09:33:25,792 - __main__ - INFO - Generating summary for 7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-27 09:33:25,886 - __main__ - INFO - Cleaned up file C:\fs2-2\customer\flask\Uploads\4c872299-5f61-4906-9034-325970d8c8cb_7012-2007___supremecourt__2007__7012__7012_2007_Judgement_20-Sep-2018.pdf
+2025-04-27 09:33:25,887 - __main__ - ERROR - Summarization error: index out of range in self
+Traceback (most recent call last):
+  File "C:\fs2-2\customer\flask\app.py", line 832, in summarize
+    summary = summarizer(
+              ^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 280, in __call__
+    return super().__call__(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 173, in __call__
+    result = super().__call__(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1362, in __call__
+    return self.run_single(inputs, preprocess_params, forward_params, postprocess_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1369, in run_single
+    model_outputs = self.forward(model_inputs, **forward_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\base.py", line 1269, in forward
+    model_outputs = self._forward(model_inputs, **forward_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\pipelines\text2text_generation.py", line 202, in _forward
+    output_ids = self.model.generate(**model_inputs, **generate_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\utils\_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\generation\utils.py", line 2067, in generate
+    model_kwargs = self._prepare_encoder_decoder_kwargs_for_generation(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\generation\utils.py", line 652, in _prepare_encoder_decoder_kwargs_for_generation
+    model_kwargs["encoder_outputs"]: ModelOutput = encoder(**encoder_kwargs)  # type: ignore
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\models\bart\modeling_bart.py", line 1061, in forward
+    embed_pos = self.embed_positions(input)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\transformers\models\bart\modeling_bart.py", line 116, in forward
+    return super().forward(positions + self.offset)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\modules\sparse.py", line 190, in forward
+    return F.embedding(
+           ^^^^^^^^^^^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\torch\nn\functional.py", line 2551, in embedding
+    return torch.embedding(weight, input, padding_idx, scale_grad_by_freq, sparse)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: index out of range in self
+2025-04-27 09:33:25,893 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\transformers\\pipelines\\text2text_generation.py', reloading
+2025-04-27 09:33:25,905 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 09:33:25] "[35m[1mPOST /summarize HTTP/1.1[0m" 500 -
+2025-04-27 09:33:25,905 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\torch\\utils\\_contextlib.py', reloading
+2025-04-27 09:33:25,906 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\transformers\\generation\\utils.py', reloading
+2025-04-27 09:33:25,906 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\torch\\nn\\modules\\module.py', reloading
+2025-04-27 09:33:25,907 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\anaconda3\\Lib\\site-packages\\torch\\nn\\modules\\sparse.py', reloading
+2025-04-27 09:33:28,127 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-27 09:33:44,576 - __main__ - INFO - Using device: cpu
+2025-04-27 09:33:44,576 - __main__ - INFO - Loading QA model...
+2025-04-27 09:33:56,210 - __main__ - INFO - QA model loaded successfully
+2025-04-27 09:33:56,211 - __main__ - INFO - Loading summarization model...
+2025-04-27 09:34:09,361 - __main__ - INFO - Summarization model loaded successfully
+2025-04-27 09:34:09,361 - __main__ - INFO - Loading embeddings model...
+2025-04-27 09:34:09,994 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-27 09:34:09,998 - datasets - INFO - TensorFlow version 2.18.0 available.
+2025-04-27 09:34:10,716 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-27 09:34:10,717 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-27 09:34:11,185 - __main__ - INFO - Embeddings model loaded successfully
+2025-04-27 09:34:11,209 - werkzeug - WARNING -  * Debugger is active!
+2025-04-27 09:34:11,217 - werkzeug - INFO -  * Debugger PIN: 734-381-477
+2025-04-27 09:35:35,232 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-27 09:35:35,232 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-27 09:35:35,233 - werkzeug - INFO -  * Detected change in 'C:\\fs2-2\\customer\\flask\\app.py', reloading
+2025-04-27 09:35:37,331 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
